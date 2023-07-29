@@ -19,3 +19,5 @@ This will create a table name same as the class name with the member variables a
 
 Each table must have a primary key. We use the *@Id* annotation to mark the datatype below it as the Key datatype. 
 
+More to be added...
+
