@@ -2,6 +2,8 @@
 
 I'll dive deep into the details of entities and keywords used while the writing the code. Before starting, here's a short summary of what we're trying to achieve. We'll be building a simple application that has the capability of performing CRUD operations.
 
+[Spring Initializer](https://start.spring.io/)
+
 
 # Foundation Structure
 
